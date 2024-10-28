@@ -39,7 +39,7 @@ IMT-2020: 5G STANDARDS
 
 IMT-ADVANCED:4G STANDARDS
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/5g-Masterclass/blob/c43b32a3feb27af6cfccbfc42135ecc5ea1a82af/Image.jpeg)
 
 3.**The 3rd Generation Partnership Project - 3GPP**
 
