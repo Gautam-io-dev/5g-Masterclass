@@ -117,6 +117,8 @@ IoT Applications: Supports a large number of connected devices, ideal for smart 
 Autonomous Vehicles: Enables real-time communication between vehicles and infrastructure for safer navigation.
 Remote Surgery: Allows surgeons to perform procedures on patients from distant locations with minimal delay.
 
+![image alt](
+
  
  
 
