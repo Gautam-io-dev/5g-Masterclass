@@ -79,7 +79,7 @@ IMT-ADVANCED:4G STANDARDS
 
 7️⃣INDIA : Telecommunications Standards Development Society 
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/5g-Masterclass/blob/0cc35c5ee13f730a218a374bcb65f39327b1e3bd/Image%204.jpeg)
 
 **3GPP has developed:**
  
