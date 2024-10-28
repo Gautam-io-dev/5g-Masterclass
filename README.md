@@ -97,7 +97,7 @@ IMT-ADVANCED:4G STANDARDS
 
  **3GPP PROJECT COORDINATION GROUP (PCG):**
 
- ![image alt]()
+ ![image alt](https://github.com/Gautam-io-dev/5g-Masterclass/blob/dfd296017e04c521dd6df2eacbb6c2bccbc34095/Image%203.jpeg)
 
  **3GPP RELEASES TIMELINE**
 
