@@ -101,7 +101,7 @@ IMT-ADVANCED:4G STANDARDS
 
  **3GPP RELEASES TIMELINE**
 
- ![image alt]()
+ ![image alt](https://github.com/Gautam-io-dev/5g-Masterclass/blob/ef636d5c84d91b763521343653a58043b5255588/Image%202.jpeg)
 
  **THE 5G USE CASES:**
 
