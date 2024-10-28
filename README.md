@@ -117,7 +117,7 @@ IoT Applications: Supports a large number of connected devices, ideal for smart 
 Autonomous Vehicles: Enables real-time communication between vehicles and infrastructure for safer navigation.
 Remote Surgery: Allows surgeons to perform procedures on patients from distant locations with minimal delay.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/5g-Masterclass/blob/13b89e616b2a32a2beb6b4973fe07441ccbac661/Image%205.jpeg)
 
  
  
